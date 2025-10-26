@@ -10,5 +10,5 @@ One significant challenge I faced is when i tried to transact PlantSeed function
 
 
 
-I hope to explore more on what can be done on chain.
+In the next session, I hope to explore more on what can be done on chain.
 
