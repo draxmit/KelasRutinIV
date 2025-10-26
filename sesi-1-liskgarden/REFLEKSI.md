@@ -1,5 +1,7 @@
 On this session I have learnt:
 
+* Blockchain basics
+* Gas fee mechanism
 * The basics of Solidity
 * How to deploy and transact contracts on Lisk Testnet
 * Logics can be implemented on the contracts
