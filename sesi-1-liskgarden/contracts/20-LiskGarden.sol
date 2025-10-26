@@ -41,6 +41,10 @@ contract LiskGarden {
         owner = msg.sender;
     }
 
+    function deposit() public payable {
+        require(msg.sender == owner);
+    }
+
     function plantSeed() external payable returns (uint256) {
         require(msg.value >= PLANT_PRICE);
 
